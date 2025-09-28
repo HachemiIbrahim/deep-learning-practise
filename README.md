@@ -43,11 +43,3 @@ pip install -r requirements.txt
 * 🔹 Feedforward & Backpropagation
 * 🔹 Convolutional Neural Networks (CNNs)
 * 🔹 Transfer Learning
-
-
-This project is licensed under the **MIT License** – free to use, modify, and learn from.
-
----
-
-👉 Question for you:
-Do you want me to make the README more **formal (like a research repo)** or more **casual/friendly (like a learning diary)**?
