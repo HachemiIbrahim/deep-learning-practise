@@ -1,7 +1,7 @@
 # Deep Learning Learning Repo
 
 This repository is dedicated to learning and experimenting with **Deep Learning** concepts.
-It contains tutorials, practice notebooks, and small projects that cover the basics of neural networks, computer vision, natural language processing, and other related topics.
+It contains tutorials, practice notebooks, and small projects that cover the basics of neural networks, computer vision .
 
 ---
 
